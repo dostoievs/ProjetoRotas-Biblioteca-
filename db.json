@@ -1,9 +1,119 @@
 {
-    "notas": [
-        {
-            "id":1,
-            "titulo":"Estudar JS",
-            "status":true
-        }
+    "Peças de Teatro": [
+      {
+        "id": 1,
+        "titulo": "Esperando Godot",
+        "editora":"Companhia das Letras" ,
+        "autor":"Samuel Beckett",
+        "numero de paginas": "192"
+      },
+      {
+        "id": 2,
+        "titulo": "O Rinoceronte",
+        "editora":"Nova Fronteira" ,
+        "autor":"Eugéne Ionesco",
+        "numero de paginas": "128"
+      },
+      {
+        "id": 3,
+        "titulo": "Salomé",
+        "editora":"Martin Claret" ,
+        "autor":"Oscar Wilde",
+        "numero de paginas": "152"
+      },
+      {
+        "id": 4,
+        "titulo": "Auto da Compadecida",
+        "editora":"Nova Fronteira" ,
+        "autor":"Ariano Suassuna",
+        "numero de paginas": "208"
+      }
+    ],"Livros Filosoficos": [
+      {
+        "id": 1,
+        "titulo": "Memórias do Subsolo",
+        "editora":"editora 34" ,
+        "autor":"Fiódor Dostoiévski",
+        "numero de paginas": "147"
+      },
+      {
+        "id": 2,
+        "titulo": "Ossos de Eco",
+        "editora":"editora globo" ,
+        "autor":"Samuel Beckett",
+        "numero de paginas": "220"
+      },
+      {
+        "id": 3,
+        "titulo": "A morte de Ivan Ilitch",
+        "editora":"editora 34" ,
+        "autor":"Leon Tostoi",
+        "numero de paginas": "96"
+      },
+      {
+        "id": 4,
+        "titulo": "1984",
+        "editora":"Companhia das Letras" ,
+        "autor":"George Owell",
+        "numero de paginas": "220"
+      }
+    ],"Livros:Poesias": [
+      {
+        "id": 1,
+        "titulo": "Cinza das Horas",
+        "editora":"Global editora" ,
+        "autor":"Manuel Bandeira",
+        "numero de paginas": "105"
+      },
+      {
+        "id": 2,
+        "titulo": "A Íliada ",
+        "editora":"Penguin Companhia" ,
+        "autor":"Homero",
+        "numero de paginas": "720"
+      },
+      {
+        "id": 3,
+        "titulo": "A Odisséia",
+        "editora":"Penguin Companhia" ,
+        "autor":"Homero",
+        "numero de paginas": "520"
+      },
+      {
+        "id": 4,
+        "titulo": "Metamorfose",
+        "editora":"editora 34" ,
+        "autor":"Ovídio",
+        "numero de paginas": "910"
+      }
+    ],"Classicos Brasileiros": [
+      {
+        "id": 1,
+        "titulo": "O Alienista",
+        "editora":"Via Leitura" ,
+        "autor":"Machado de Assis",
+        "numero de paginas": "80"
+      },
+      {
+        "id": 2,
+        "titulo": "O Bom Crioulo",
+        "editora":"Martin Claret" ,
+        "autor":"Adolfo Caminha",
+        "numero de paginas": "162"
+      },
+      {
+        "id": 3,
+        "titulo": "Olhai os lírios do Campo",
+        "editora":"Companhia das Letras" ,
+        "autor":"Erico Veríssimo",
+        "numero de paginas": "288"
+      },
+      {
+        "id": 4,
+        "titulo": "Toda Nudez Será Castigada",
+        "editora":"Nova Fronteira" ,
+        "autor":"Nelson Rodrigues",
+        "numero de paginas": "176"
+      }
     ]
-}
+  }
